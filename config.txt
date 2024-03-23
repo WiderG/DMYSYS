@@ -1,0 +1,10 @@
+# BOT KEY
+[Trying to debug your code? Make your own bot in a private server to do so.]
+
+# DEBUGMODE?
+False
+
+# LOGDISABLED?
+True
+
+1.4.2
